@@ -9,10 +9,12 @@
 <p>https://builtbybit.com/</p>
 <p>https://black-minecraft.com/</p>
 <p>https://madelinemiller.dev/</p>
+<p>https://kennytv.github.io/list-of-shame/</p>
+<p>https://madelinemiller.dev</p>
+<p>https://wiki.vg/Main_Page</p>
+<p>https://www.reddit.com/r/admincraft/</p>
 
 ## Инструменты:
-<p>https://madelinemiller.dev/</p>
 <p>https://flags.sh/</p>
-<p>https://kennytv.github.io/list-of-shame/</p>
-<p>https://www.reddit.com/r/admincraft/</p>
-<p>https://wiki.vg/Main_Page</p>
+<p>https://minecraft.menu/minecraft-rgb-generator</p>
+<p>https://rynstwrt.github.io/Minecraft-Server-MOTD-Gradient-Generator/</p>
