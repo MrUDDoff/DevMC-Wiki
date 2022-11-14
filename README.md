@@ -18,15 +18,8 @@
 <p>・https://flags.sh/ - Генератор start(sh/bat).</p>
 <p>・https://minecraft.menu/minecraft-rgb-generator - Генератор RGB, для motd и т.п.</p>
 <p>・https://rynstwrt.github.io/Minecraft-Server-MOTD-Gradient-Generator/ - Генератор градиентов для motd.</p>
+<p>・https://linuxize.com/ - Фишки и советы для OC Linux.</p>
 
 ## Discord-сервера:
 <p>・https://discord.gg/HHSvuyDUHH - Сообщество от форума SpigotMC.ru</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
+<p>・https://discord.gg/HGX3ba9KKZ - Сообщество от Реддита, по Minecraft-разработке.</p>
