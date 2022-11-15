@@ -26,3 +26,8 @@
 <p>・https://discord.gg/HGX3ba9KKZ - Сообщество от Реддита, по Minecraft-разработке.</p>
 
 ### В процессе разработки.
+
+## Действительно крутые хостинги:
+<p>https://spacecore.pro/</p>
+<p>https://hshp.host/</p>
+<p>https://elixirnode.com/</p>
