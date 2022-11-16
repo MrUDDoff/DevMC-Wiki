@@ -27,7 +27,10 @@
 
 ### В процессе разработки.
 
-## Действительно крутые хостинги:
-<p>https://spacecore.pro/</p>
-<p>https://hshp.host/</p>
-<p>https://elixirnode.com/</p>
+## Действительно крутые хостинги, на которые стоит обратить внимание:
+<p>・https://spacecore.pro/</p>
+<p>・https://hshp.host/</p>
+<p>・https://elixirnode.com/</p>
+
+<p>Спасибо всем за внимание, надеюсь это Вам пригодиться.
+У меня есть свой Discord-сервер, если тебе интересно пообщаться со мной, то Welcome: https://disocrd.gg/eWYBcP9SXN</p>
