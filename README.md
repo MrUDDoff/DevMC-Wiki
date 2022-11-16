@@ -14,6 +14,7 @@
 <p>・https://www.reddit.com/r/admincraft/ - Большое сообщество по Minecraft-разработке на реддите.</p>
 <p>・https://devmc.org/ru - Русскоязычный форум(?), в данный момент нет никакой активности, однако удобный генератор GUI для DeluxeMenu.</p>
 <p>・https://wiki.helpch.at/ - Документация по нескольким плагинам, например по DeluxeMenu.</p>
+<p>・https://vk.com/rumined - Относительно активное сообщество по Ru-Minecraft, среди разработчиков. </p>
 
 ## Инструменты:
 <p>・https://flags.sh/ - Генератор start(sh/bat).</p>
