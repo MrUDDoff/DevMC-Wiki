@@ -14,9 +14,11 @@
 <p>・https://kennytv.github.io/list-of-shame/ - В РУМК это называют Лист-троллинга.</p>
 <p>・https://wiki.vg/Main_Page - Небольшая документация по Minecraft API.</p>
 <p>・https://www.reddit.com/r/admincraft/ - Большое сообщество по Minecraft-разработке на реддите.</p>
+<p>・https://www.reddit.com/r/syscraft/ - Англоязычное активное сообщество, по Minecraft-разработке и администрировании.</p>
 <p>・https://devmc.org/ru - Русскоязычный форум(?), в данный момент нет никакой активности, однако удобный генератор GUI для DeluxeMenu.</p>
 <p>・https://wiki.helpch.at/ - Документация по нескольким плагинам, например по DeluxeMenu.</p>
 <p>・https://vk.com/rumined - Относительно активное сообщество по Ru-Minecraft, среди разработчиков. </p>
+<p>・https://geysermc.org/ - Проект, который поможет Вам связать Bedrock с Java.</p>
 
 ---
 
@@ -29,6 +31,7 @@
 ## Discord-сервера:
 <p>・https://discord.gg/HHSvuyDUHH - Сообщество от форума SpigotMC.ru.</p>
 <p>・https://discord.gg/HGX3ba9KKZ - Сообщество от Реддита, по Minecraft-разработке.</p>
+<p>・https://discord.gg/syscraft - Сообщество от Реддита, по Minecraft-администрированию и другим техническим аспектам.</p>
 
 ---
 
