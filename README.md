@@ -32,6 +32,7 @@
 <p>・https://discord.gg/HHSvuyDUHH - Сообщество от форума SpigotMC.ru.</p>
 <p>・https://discord.gg/HGX3ba9KKZ - Сообщество от Реддита, по Minecraft-разработке.</p>
 <p>・https://discord.gg/syscraft - Сообщество от Реддита, по Minecraft-администрированию и другим техническим аспектам.</p>
+<p>・https://discord.gg/ATzGdnPbXp - По моему мнению, самое активное ру-сообщество.</p>
 
 ---
 
