@@ -19,6 +19,7 @@
 <p>・https://wiki.helpch.at/ - Документация по нескольким плагинам, например по DeluxeMenu.</p>
 <p>・https://vk.com/rumined - Относительно активное сообщество по Ru-Minecraft, среди разработчиков. </p>
 <p>・https://geysermc.org/ - Проект, который поможет Вам связать Bedrock с Java.</p>
+<p>・https://forum-minecraft.ru/ - Очередной Minecraft-форум, от Русских ребят.</p>
 
 ---
 
