@@ -19,6 +19,7 @@ ___
 
 - [SpigotMC](https://spigotmc.org) - Самый популярный на текущий момент форум Minecraft-разработке.
   - [SpigotRu](https://spigotmc.ru) - Русскоязычный Spigot-форум.
+  - [Discord](https://discord.gg/HHSvuyDUHH) - Discord-сервер SpigotRU
  
 - [MCMarket](https://builtbybit.com/) - Крупнейшая площадка по продаже плагинов, карт и т.п.
  
@@ -44,3 +45,18 @@ ___
 
 - [Millida](https://vk.com/millida) - Его руководитель неадекватный человек, который не умеет рассудительно решать проблемы. Также, недоговаривает условия контракта, для своих работников.
   - [4DNEW](https://vk.com/4dnew) - От того же разработчика, ситуация не меняется.
+
+### Студии с которыми можно сотрудничать:
+
+- [AngeliTex](https://vk.com/angelitex) - Молча делают свою работу, без понтов, а главное с душой.
+- [Baroness' Dev](https://vk.com/baroness_dev) - Знают своё дело, но порой не успевают из-за количества работ.
+- [DMineShop](https://vk.com/dmineshop) - Показали себя с хорошей стороны, знают то, чем занимаются.
+
+___
+
+### Хорошие разработчики в русскоязычном сегменте:
+
+- [Xezard](https://github.com/Xezard)
+- [Baroness' Dev](https://vk.com/id574318492)
+- [Dymeth](https://github.com/dymeth)
+- [Omashue](https://github.com/omashune)
