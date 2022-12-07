@@ -63,6 +63,7 @@ ___
 - [Baroness' Dev](https://vk.com/id574318492)
 - [Dymeth](https://github.com/dymeth)
 - [Omashue](https://github.com/omashune)
+- [Tiplur](https://github.com/Tiplur-ka)
 
 ___
 
