@@ -75,6 +75,7 @@ ___
 - [Aeza](https://aeza.net/)
 - [HSHP](https://hshp.host)
 - [SpaceCore](https://spacecore.pro)
+- [ElixirNode](https://elixirnode.com)
 
 ## Хостинги которые стоит игнорировать:
 - [RussianNodes](http://russiannodes.com/)
