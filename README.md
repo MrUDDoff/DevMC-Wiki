@@ -22,6 +22,8 @@ ___
 
 - [SpigotMC](https://spigotmc.org) - Самый популярный на текущий момент форум Minecraft-разработке.
   - [SpigotRu](https://spigotmc.ru) - Русскоязычный Spigot-форум.
+  
+- [DevMC](https://devmc.org/) - Новый русскоязычный форум от Xezard'a.
   - [Discord](https://discord.gg/HHSvuyDUHH) - Их Discord-сервер.
  
 - [MCMarket](https://builtbybit.com/) - Крупнейшая площадка по продаже плагинов, карт и т.п.
